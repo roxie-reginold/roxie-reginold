@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roxie-reginold!
 - 👀 I’m interested in Software Development, Data Science, App development.
-- 🌱 I’m currently learning SQL and expanding my Python Knowledge.
-- 📫 How to reach me: roxie.reginold1@gmail.com, University email: roxie.reginold@ryerson.ca
+- 🌱 I’m currently learning SQL, expanding my Python Knowledge,
+- 📫 How to reach me: roxie.reginold1@gmail.com, University email: roxie.reginold@torontomu.ca
 - Devpost link: https://devpost.com/roxie-reginold1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 
 <!---
