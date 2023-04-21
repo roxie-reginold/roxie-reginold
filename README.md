@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roxie-reginold!
 - 👀 I’m interested in Software Development, Data Science, App development.
-- 🌱 I’m currently a second year Computer Science student at TMU.
+- 🌱 I’m currently a second year Co-op Computer Science student at TMU.
 - 📫 How to reach me: roxie.reginold1@gmail.com, University email: roxie.reginold@torontomu.ca
 - Devpost link: https://devpost.com/roxie-reginold1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 
