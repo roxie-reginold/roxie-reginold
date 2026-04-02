@@ -33,19 +33,6 @@ I work across software development, data science, AI/ML, and DevOps.
 
 </div>
 
-### Featured repositories
-
-Pin up to six repos on your GitHub profile (**Profile** → **Customize your pins**). Good candidates:
-
-| Repository | Highlights |
-| --- | --- |
-| [**ElleHacks2026**](https://github.com/roxie-reginold/ElleHacks2026) | Recent hackathon (TypeScript) |
-| [**CPS406TicketTango**](https://github.com/roxie-reginold/CPS406TicketTango) | Group ticketing project (Java) |
-| [**Spotify–GPT analysis**](https://github.com/roxie-reginold/Spotify-Song-Popularity-Analysis-and-Forecasting-Using-GPT) | Python data & forecasting |
-| [**TheSummerITurnedPetty**](https://github.com/roxie-reginold/TheSummerITurnedPetty) | JavaScript |
-| [**CPS109Assignment2**](https://github.com/roxie-reginold/CPS109Assignment2) | Python NLP / corpus work |
-| [**RUHacks 2022 Eco-venture**](https://github.com/roxie-reginold/RUHacks-2022----Eco-venture) | Hackathon (Python) |
-
 ---
 
 **Contact:** [roxie.reginold1@gmail.com](mailto:roxie.reginold1@gmail.com) · **TMU:** roxie.reginold@torontomu.ca
