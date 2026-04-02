@@ -20,14 +20,16 @@ I work across software development, data science, AI/ML, and DevOps.
 
 ---
 
-### GitHub stats
+### GitHub stats & activity
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roxie-reginold&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxie-reginold&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top languages" />
+<!-- Official github-readme-stats.vercel.app is often paused (503). These mirrors work as of 2026; swap URLs if they stop loading. -->
+
+<img height="195" src="https://github-stats-alpha.vercel.app/api?username=roxie-reginold&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+<img height="195" src="https://streak-stats.demolab.com/?user=roxie-reginold&theme=dracula&hide_border=true" alt="GitHub contribution streak" />
 
 ### Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=roxie-reginold&theme=dracula&no-frame=true&row=2&column=7" alt="GitHub profile trophies" />
+<img src="https://github-trophies.vercel.app/?username=roxie-reginold&theme=dracula&no-frame=true&row=2&column=7" alt="GitHub profile trophies" />
 
 </div>
 
